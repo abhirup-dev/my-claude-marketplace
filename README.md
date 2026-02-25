@@ -31,4 +31,4 @@ cp skills/<skill-name>.md ~/.claude/skills/
 
 | Name | Description |
 |------|-------------|
-| *(none yet)* | |
+| [thread-tracker](skills/thread-tracker/SKILL.md) | Track and summarise Slack threads locally. `/track-thread <url>` adds a thread; `/update-threads` refreshes all stale threads (last-read > 1 hour ago). |
