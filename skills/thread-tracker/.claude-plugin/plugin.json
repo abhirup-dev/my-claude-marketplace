@@ -1,0 +1,13 @@
+{
+  "name": "thread-tracker",
+  "version": "1.0.0",
+  "description": "Track and summarise Slack threads locally. /track-thread <url> adds a thread; /update-threads refreshes all stale threads (last-read > 1 hour ago).",
+  "author": {
+    "name": "abhirup-dev",
+    "url": "https://github.com/abhirup-dev"
+  },
+  "repository": "https://github.com/abhirup-dev/my-claude-marketplace",
+  "license": "MIT",
+  "keywords": ["slack", "threads", "tracking", "summarise", "cowork"],
+  "skills": "./SKILL.md"
+}

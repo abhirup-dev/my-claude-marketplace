@@ -1,0 +1,26 @@
+{
+  "name": "abhirup-dev-marketplace",
+  "owner": {
+    "name": "abhirup-dev",
+    "url": "https://github.com/abhirup-dev"
+  },
+  "metadata": {
+    "description": "Personal curated collection of Claude Code skills and plugins.",
+    "version": "1.0.0",
+    "pluginRoot": "./skills"
+  },
+  "plugins": [
+    {
+      "name": "thread-tracker",
+      "source": "./skills/thread-tracker",
+      "description": "Track and summarise Slack threads locally. /track-thread <url> adds a thread; /update-threads refreshes all stale threads (last-read > 1 hour ago).",
+      "version": "1.0.0",
+      "author": {
+        "name": "abhirup-dev",
+        "url": "https://github.com/abhirup-dev"
+      },
+      "license": "MIT",
+      "keywords": ["slack", "threads", "tracking", "summarise", "cowork"]
+    }
+  ]
+}
