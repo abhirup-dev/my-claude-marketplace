@@ -1,13 +1,14 @@
 {
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "abhirup-dev-marketplace",
+  "version": "1.0.0",
   "owner": {
     "name": "abhirup-dev",
     "url": "https://github.com/abhirup-dev"
   },
   "metadata": {
     "description": "Personal curated collection of Claude Code skills and plugins.",
-    "version": "1.0.0",
-    "pluginRoot": "./skills"
+    "version": "1.0.0"
   },
   "plugins": [
     {
