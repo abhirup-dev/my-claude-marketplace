@@ -8,6 +8,5 @@
   },
   "repository": "https://github.com/abhirup-dev/my-claude-marketplace",
   "license": "MIT",
-  "keywords": ["slack", "threads", "tracking", "summarise", "cowork"],
-  "skills": "./SKILL.md"
+  "keywords": ["slack", "threads", "tracking", "summarise", "cowork"]
 }
